@@ -4,6 +4,8 @@ title = Attendance
 package.name = attendance
 package.domain = org.damir
 
+android.accept_sdk_license = True
+
 source.dir = .
 source.include_exts = py,json,png,jpg,kv
 
