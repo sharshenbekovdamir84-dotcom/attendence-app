@@ -33,7 +33,3 @@ android.allow_backup = True
 
 android.permissions =
 
-
-[buildozer]
-
-log_level = 2
